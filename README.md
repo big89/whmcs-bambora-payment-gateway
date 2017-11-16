@@ -12,6 +12,8 @@ Bambora PayForm plugin allows you to accept e-payments through most Finnish bank
 
 This is a plugin for integrating Bambora PayForm (EU) payment gateway with your WHMCS. Accept payments with this plugin, you need to have an active contract with [Bambora](https://www.bambora.com/fi/fi/maksuratkaisut/verkkokauppa/tuotteet/payform/).
 
+See Bambora PayForm documentation: https://payform.bambora.com/docs/
+
 ## Why WHMCS Bambora?
 
     Accept all Major Credit Cards – Visa®, MasterCard®, American Express®, Discover®
@@ -20,6 +22,10 @@ This is a plugin for integrating Bambora PayForm (EU) payment gateway with your 
 ## Supported Payment Methods
 
 Nordea, Osuuspankki, Danskebank, Aktia, Säästöpankki, Paikallisosuuspankki, Handelsbanken, S-Pankki, Ålandsbanken, Oma Säästöpankki, Visa, Visa Electron, Mastercard, Everyday.fi, Joustoraha, Euroloan, MobilePay.
+
+## Test Card Details
+
+Refer [Paying with test account](https://payform.bambora.com/docs/web_payments/?page=testing) for testing.
 
 ## Installtion Steps
 
