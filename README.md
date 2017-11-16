@@ -10,7 +10,7 @@ Payment Gateway modules allow you to integrate payment solutions with the WHMCS 
 
 Bambora PayForm plugin allows you to accept e-payments through most Finnish banks, credit cards and credit invoices. This plugin uses the Bambora PayForm Payment API.
 
-This is a plugin for integrating Bambora PayForm (EU) payment gateway with your WHMCS. Accept payments with this plugin, you need to have an active contract with Bambora.
+This is a plugin for integrating Bambora PayForm (EU) payment gateway with your WHMCS. Accept payments with this plugin, you need to have an active contract with [Bambora](https://www.bambora.com/fi/fi/maksuratkaisut/verkkokauppa/tuotteet/payform/).
 
 ## Why WHMCS Bambora?
 
