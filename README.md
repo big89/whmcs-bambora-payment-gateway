@@ -23,6 +23,12 @@ See Bambora PayForm documentation: https://payform.bambora.com/docs/
 
 Nordea, Osuuspankki, Danskebank, Aktia, Säästöpankki, Paikallisosuuspankki, Handelsbanken, S-Pankki, Ålandsbanken, Oma Säästöpankki, Visa, Visa Electron, Mastercard, Everyday.fi, Joustoraha, Euroloan, MobilePay.
 
+## Bambora PayForm Checkout Page
+
+Customer will get redirect to Bambora hosted Checkout Page to enter card details or select preferred payment method.
+
+![Bambora PayForm Checkout Page](https://github.com/big89/whmcs-bambora-payment-gateway/blob/master/bambora_checkout_page.png "Bambora PayForm Checkout Page")
+
 ## Test Card Details
 
 Refer [Paying with test account](https://payform.bambora.com/docs/web_payments/?page=testing) for testing.
